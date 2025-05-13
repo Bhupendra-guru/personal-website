@@ -1,0 +1,98 @@
+Act as UI UX Designer with 30+ years of experience while designing
+Act as software engineer with 30+ years of experience while coding
+
+Create Personal Website Using HTML, CSS and JS, Bootstrap
+
+Name: Bhupendra Gurung
+Description: Mass spectrometry/ Ion mobility spectrometry scientist 
+photo on same folder: Bhupendra.jpeg
+Email: tamubhupendrame@gmail.com
+LinkdIn: https://www.linkedin.com/in/bhupendra-gurung-phd-a637b3204/
+About:
+Education:
+ BS	Chemistry	Prithivi Narayan Campus, Pokhara, Nepal
+ MS	Chemistry	Tribhuvan University, Kirtipur, Nepal
+ MS	Chemistry	New Mexico State University, Las Cruces, NM
+PhD	Chemistry	New Mexico State University, Las Cruces, NM
+
+
+Professional Experience:
+Graduate Research Assistant, New Mexico State University, Las Cruces, NM,
+    Aug 2016 to May 2019, May 2021 to Aug 2021
+Graduate Teaching Assistant, New Mexico State University, Las Cruces, NM
+    Aug 2014 to Aug 2016, Oct 2020 and May 2021
+Postdoctoral Research fellow, New Mexico State University, Las Cruces, NM
+    Nov 2021- June 2023 (DHS funded project)
+Postdoctoral Research fellow, University of Texas Health Science Center at San Antonio, TX
+    Aug 2023-
+
+
+Awards and Recognition:
+Frederick Coulston Graduate Scholarship (2018-2019)
+Asprey Family Endowed Scholarship Fund (2018-2019)
+PhD Tuition Scholarships (2020-2021)
+
+
+Publications:
+1. Hossein Shokri, Maika Vuki, Ben Gardner, Hsein-Chi Niu, Umesh Chiluwal, Bhupendra K Gurung, David B Emery and Gary A. Eiceman; Reactive Tandem ion mobility spectrometry with electric field fragmentation of alcohols at ambient pressure, Anal. Chem, 2019, 91, 9, 6281 – 6287 
+2. Bhupendra K. Gurung, John A. Stone, and Gary A. Eiceman; Thermal decomposition of the chloride and nitrate adducts of pentaerythritol tetranitrate in air at ambient pressure using a cross flow design tandem ion mobility spectrometry, Int.J.Mass Spectrom, 2021, 469, 116686. 
+3. Bhupendra K. Gurung, John A. Stone, and Gary A. Eiceman, NO3- loss from nitrate adducts of explosives by thermal decomposition in tandem ion mobility spectrometry and by collision induced dissociation in tandem mass spectrometry, Int.J.Mass Spectrom, 2024, 500, 117235 
+4. Bhupendra K. Gurung, John A. Stone, and Gary A. Eiceman, Collision induced dissociation –mass spectrometry and thermal decomposition- ion mobility spectrometry of chloride adducts of explosives. (In progress)
+5. Richard G, Ye Ji Choi, Guanshi Z, Hodgin J, Schaub J, Tamayo IM, Bhupendra KG, Naik A, Nair V, Birznieks C, MacDonald A, Narongkiatikhun P, Gross S, Driscoll L, Flynn M, Tommerdahl K, Nadeau KJ, Shah V, Vigers T, Snell-Bergeon JK, van Raalte DH, Li LP, Prasad P, Ladd P, Chin B, Cherney DZI, McCown P, Alawkaa F, Otto E, Brosius FC, Saulnier PJ, Puelles V, Goodrich J, de Boer I, Nelson RG, Pyle L, Blondin DP, Sharma K, Kretzler M and Bjornstad P, Attenuated kidney oxidative metabolism in young adults with type 1 diabetes, J Clin Invest.
+
+
+Presentations:
+1. “Thermal decomposition and collision induced dissociation of nitrate adducts of explosives in ion mobility spectrometry and mass spectrometer respectively.” 2022 International Conference on Ion Mobility Spectrometry, Memphis, Tennessee, w/Stone, J., Eiceman, G.A.
+2. “Fragmentation of protonated monomers of alkyl acetates at ambient pressure in electric fields” 70th ASMS conference on Mass Spectrometry and Allied Topics, Minneapolis, Minnesota, June 2022, w/ Lee, J., Schnieder, B.B., Kang, Y., Eiceman, G.A.
+3. “Collision induced dissociation of chloride adducts of nitrate and nitrate based explosives using tandem mass spectrometry”, 30th ISIMS virtual conference, July 2021, w/ Fard M. T., Lee, J., Stone, J., Eiceman, G.A
+4. “A cross folw design of a tandem ion mobility spectrometer for the study of the thermal decomposition of the chloride and nitrate adducts of pentaerythritol (PETN) in air at ambient pressure.” 12th NeSA international conference, April 2021, w/ Stone, J., Eiceman, G.A.
+5. “Decomposition of PETNCl- in air at ambient Pressure with a Drift tube-MS and Tandem Ion mobility spectrometer: Experimental and Computation Findings”, 29th Annual Meeting of the Intl. Society for Ion Mobility Spectrometry, July 2020, virtual poster symposium, w/ Stone, J., Eiceman, G.A.
+6. “Study of thermal decomposition of chloride adduct of PETN using Nebulizer side flow ion mobility spectrometry.” 27th Annual Meeting of the Intl. Society for Ion Mobility Spectrometry, Calgary, Alberta, Canada July 2018 w/Stone, J., Eiceman, G.A.
+7. “Characterization of Chemical Family Specific Ion fragmentation using GC-API/fragmenter-MS” 26th Annual Meeting of the Intl. Society for Ion Mobility Spectrometry, Warsaw, Poland, July 2017 w/ Fowler, P., Chiluwal, U., Eiceman, G.A.	 
+
+
+
+
+Services and Leadership:
+Served as one of the judge in 13th International Conference 2022 organised by Nepalese Student Association (NeSA), NMSU, Las Cruces, NM
+Executive member, Nepalese Student Association (NeSA), NMSU, Las Cruces, NM, 2017 to 2018
+Secretary, Nepalese Student Association (NeSA), NMSU, Las Cruces, NM, 2015 to 2016
+Sports Director, Nepalese Student Association (NeSA), NMSU, Las Cruces, NM 2014 to 2015
+Co-Organizer, NMSU (NeSA) and UNM (Nepalese student Association)
+Co-organizer NeSA (NMSU) and Chinese Student Association (NMSU)
+Organizer weekly football, campus wide.
+Vice–Secretary, T.U Tamu Pariwar, Tribhuvan University, Kirtipur, Nepal 2010 to 2010
+
+
+
+Achievements in Research in Mass Spectrometry and Ion Mobility Spectrometry:
+1. Fragmentation of Protonated Monomers in Air at Ambient Pressure.  Products of fragmentation of protonated monomers of alcohols and acetates, in air at ambient pressure, and in a strong electric field were mass-analyzed.  The drift tube MS was built at NMSU. This was a first known determination of fragment ions from field induced fragmentation at high pressures (660 torr) and was made using drift tube-mass spectrometer.  
+
+2. Decomposition of Chloride Adducts of Explosives at Ambient Pressure.  I designed, built, and employed a kinetic tandem drift tube in ion mobility spectrometry to measure rates of decomposition of chloride adducts of PETN in a multistage drift tube.  This instrument permitted the determination of enthalpies of decomposition with thermally labile PETN.
+
+
+3. Mass-resolved kinetic data for explosive ions which decompose through multiple pathways. A three-ion shutter-based ion mobility drift tube combined with a quadrupole mass spectrometer was designed, built, and employed to obtain kinetic information on enthalpies of decomposition for gas ions in air at ambient pressure.  The three ion-shutter design allowed an ion to be mobility selected, introduced into a drift region where decomposition occurred, and then detected.
+
+4. Ion Decomposition through Collision Induced Dissociation.  Studies were made using a Sciex 4000 tandem mass spectrometer of the decomposition energies of nitrate adducts and chloride adducts of explosives.
+
+
+5. Non-conventional Drift Tubes Designs for Ion Mobility Spectrometry. I explored designs of drift tubes and ion shutters not conventionally seen in technologies of ion mobility spectrometry or wholly new concepts in component design. This work was funded by two commercial sponsors and is NDA protected.
+
+
+6. Characterization of Commercial Trace Explosives Detector. I evaluated the performance of explosive trace detectors under contract for an industrial sponsor. NDA protected.
+
+7. Designed and built a mass spectrometer interface to a DHS funded non-contactless sampling system to detect solid explosive chemicals. Under sub-contract to prime for DHS and protected by an NDA. 
+
+8. On site monitoring of Aflatoxin B1 in Pistachio nut in Bowie, Arizona, using NMSU built technology coupled to Shimadzu 2010 mass spectrometer.
+
+9. Exploration of the trend of metabolites distribution in kidney and heart tissues of diabetic mouse/human using mass spectrometry imaging and Autofluorescence imaging.
+
+
+
+
+Specialized Skill:
+1. Computational calculations of reaction enthalpies of ion molecule reactions using software packages of Gaussian and of Spartan.
+2. Computational calculations (SIMION) of potential contours and ion motion in electric fields of drift tubes for ion mobility spectrometers.
+3. Autodesk Inventor experience in building models of components of drift tubes.
+4. Experienced with measurements using gas chromatography and liquid chromatography, and 
+5. Some experience in hardware component fabrication using milling machines, drill presses, and small hand tools.
